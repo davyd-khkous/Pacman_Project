@@ -72,7 +72,7 @@ Main/
 | ![Game Over](screenshots/lose.png) | ![Win](screenshots/win.png) |
 
 ## Demo
-
+Real FPS is 60 
 ![Gameplay demo](screenshots/ezgif-258fb823f0ac6f8f.gif)
 
 ## Team
