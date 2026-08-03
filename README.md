@@ -71,6 +71,10 @@ Main/
 |---|---|
 | ![Game Over](screenshots/lose.png) | ![Win](screenshots/win.png) |
 
+## Demo
+
+![Gameplay demo](screenshots/0803.gif)
+
 ## Team
 
 | Name | Contribution |
