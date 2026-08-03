@@ -1,0 +1,21 @@
+# Processing Python Mode compiled bytecode
+*$py.class
+
+# Python
+__pycache__/
+*.pyc
+
+# Processing sketch cache/build artifacts
+*.class
+applet/
+application.linux*/
+application.macosx/
+application.windows*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
