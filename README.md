@@ -73,7 +73,7 @@ Main/
 
 ## Demo
 
-![Gameplay demo](screenshots/0803.gif)
+![Gameplay demo](screenshots/ezgif-258fb823f0ac6f8f.gif)
 
 ## Team
 
