@@ -66,7 +66,7 @@ Main/
 
 | Menu | Gameplay – Level 1 | Gameplay – Level 2 |
 |---|---|---|
-| ![Menu](screenshots/menu.png) | ![Level 1](screenshots/level1main.png) | ![Level 2](screenshots/level2.png) |
+| ![Menu](screenshots/menu.png) | ![Level 1](screenshots/level1main1.png) | ![Level 2](screenshots/level2.png) |
 
 | Game Over | Win |
 |---|---|
