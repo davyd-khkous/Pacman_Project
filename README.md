@@ -1,6 +1,5 @@
 # Pac-Man (Processing / Python Mode)
 
-<!-- TODO: вставить сюда hero-скриншот, например ![Pacman](screenshots/menu.png) -->
 
 A custom recreation of the classic Pac-Man game, built as a team course project (5 students) using **Processing** with **Python Mode**.
 
@@ -65,13 +64,13 @@ Main/
 
 ## Gallery
 
-<!-- TODO: вставить 4-6 скриншотов: главное меню, уровень 1, уровень 2, погоня призраков, game over, победа -->
-| Menu | Gameplay | Game Over |
+| Menu | Gameplay – Level 1 | Gameplay – Level 2 |
 |---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+| ![Menu](screenshots/menu.png) | ![Level 1](screenshots/level1main.png) | ![Level 2](screenshots/level2.png) |
 
-<!-- TODO: вставить ссылку/embed на видео геймплея, 30-60 сек -->
-
+| Game Over | Win |
+|---|---|
+| ![Game Over](screenshots/lose.png) | ![Win](screenshots/win.png) |
 ## Team
 
 | Name | Contribution |
