@@ -1,5 +1,6 @@
 # Pac-Man (Processing / Python Mode)
 
+![Pacman](screenshots/level1main1.png)
 
 A custom recreation of the classic Pac-Man game, built as a team course project (5 students) using **Processing** with **Python Mode**.
 
@@ -20,13 +21,11 @@ The player navigates a maze, collects coins and avoids enemies. The game feature
 
 ## Controls
 
-<!-- TODO: уточнить точные клавиши в коде (стрелки / WASD) и вписать сюда -->
-- Arrow keys / WASD — move the character
+- WASD — move the character
 - Menu navigation — mouse or keyboard (see in-game menu)
 
 ## My Contribution
 
-<!-- TODO: 3-5 предложений от первого лица о твоём личном вкладе (см. README на польском для деталей) -->
 - Set up the repository structure and multi-file project layout
 - Implemented the main character, its sprites and movement system
 - Built the base map and coin collection logic
@@ -71,6 +70,7 @@ Main/
 | Game Over | Win |
 |---|---|
 | ![Game Over](screenshots/lose.png) | ![Win](screenshots/win.png) |
+
 ## Team
 
 | Name | Contribution |
@@ -85,8 +85,4 @@ Shared work: finite state machine for start/end screens, testing, hitbox tuning,
 
 ## License
 
-MIT — see [LICENSE](LICENSE).jedno życie. Jeśli wszystkie życia zostaną utracone, gracz przegrywa i może rozpocząć rozgrywkę ponownie z menu
-
-Celem gry jest zebranie wszystkich monet znajdujących się na mapie. Po zakończeniu rozgrywki wyświetlany jest wynik informujący o liczbie zebranych monet oraz o tym, czy gracz wygrał czy przegrał.
-
-Projekt został stworzony w celach edukacyjnych i pozwolił zespołowi przećwiczyć pracę grupową, projektowanie mechanik gry oraz implementację logiki rozgrywki.
+MIT — see [LICENSE](LICENSE).
